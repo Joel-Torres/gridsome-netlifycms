@@ -9,7 +9,7 @@
       </li>
       <li class="Header__Profile__Image">
         <g-link to="/">
-          <g-image src="~/assets/images/gridsome.png"/>
+          <g-image src="~/assets/images/legs.png"/>
         </g-link>
       </li>
       <li style="text-align: right">
